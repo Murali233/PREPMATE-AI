@@ -205,7 +205,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## 👥 Authors
 
-- Your Name - Initial work - [YourGithub](https://github.com/yourusername)
+- Your Name - Initial work - [YourGithub](https://github.com/Murali233)
 
 ## 🙏 Acknowledgments
 
@@ -214,10 +214,3 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 - React and Vite teams for the frontend frameworks
 - Express.js team for the backend framework
 
-## 📞 Support
-
-For support, email support@yourproject.com or join our Slack channel.
-
----
-
-Made with ❤️ by PrepMate AI Team
